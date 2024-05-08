@@ -1,6 +1,6 @@
-public class  baiTap4 {
+public class kiemTra9 {
     public static void main(String[] args) {
-        for ( int i =4 ; i <= 20; i= i+ 4){
+        for (int i=1; i<=5 ; i++){
             System.out.print(i+ " ");
         }
     }
